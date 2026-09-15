@@ -124,14 +124,18 @@ The course provided hands-on learning in **Artificial Intelligence, Prompt Engin
 ### 🎖️ JioPC Completion Badge
 
 <p align="center">
-  <img src="JioPC_Badge.png" alt="Jio_Ai_Course Badge" width="180"/>
+  <img src="Jio_Ai_Course_Badge.png" alt="JioPC AI Classroom Badge" width="180"/>
 </p>
+
+---
 
 ### 📜 Certificate of Completion
 
-[📄 View Certificate](Certificate.pdf)
+<p align="center">
+  <img src="Jio_Ai_Course_Certificate.png" alt="JioPC AI Classroom Certificate" width="700"/>
+</p>
 
----
+
 
 ## 🚀 Key Takeaway
 
