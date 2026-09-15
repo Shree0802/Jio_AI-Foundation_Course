@@ -137,12 +137,16 @@ The course provided hands-on learning in **Artificial Intelligence, Prompt Engin
 
 ---
 
+## 📂 Repository Structure
+
+```
 Jio_AI_Course/
 │
-├── README.md
-├── Module01.png
-├── Module02.png
-├── Module03.png
-├── Module04.png
-├── JioPC_Badge.png
-└── Certificate.pdf
+├── 📄 README.md
+├── 🖼️ Module01.png
+├── 🖼️ Module02.png
+├── 🖼️ Module03.png
+├── 🖼️ Module04.png
+├── 🏅 JioPC_Badge.png
+└── 📜 Certificate.png
+
