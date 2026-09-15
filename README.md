@@ -128,7 +128,7 @@ The course provided hands-on learning in **Artificial Intelligence, Prompt Engin
 
 ### 📜 Certificate of Completion
 
-![Module 4](Module04.png)
+![CompletionCertificate](Jio_Ai_Course_Certificate.png)
 
 
 ## 🚀 Key Takeaway
