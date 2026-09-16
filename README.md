@@ -104,7 +104,7 @@ StudyHub AI is an AI-powered learning companion that helps students organize not
 
 👉 [Visit StudyHub AI](https://client-axvercel.vercel.app/)
 
-![Studyhub_ai](StudyHubAI)
+![Studyhub_ai](StudyHubAI.png)
 
 
 
