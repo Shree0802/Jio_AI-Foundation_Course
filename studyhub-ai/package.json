@@ -1,0 +1,16 @@
+{
+  "name": "studyhub-ai",
+  "version": "1.0.0",
+  "description": "StudyHub AI - Your Smart Study Companion",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
