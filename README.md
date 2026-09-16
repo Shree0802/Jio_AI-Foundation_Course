@@ -93,6 +93,19 @@ Apply your AI knowledge to a practical project. Learn how AI agents, workflows, 
 
 ---
 
+## Final Project
+# 📚 StudyHub AI
+
+### Your Smart Study Companion
+
+StudyHub AI is an AI-powered learning companion that helps students organize notes, summarize learning material, and transform large goals into actionable study plans.
+
+## 🚀 Live Demo
+
+👉 [Visit StudyHub AI](https://client-axvercel.vercel.app/)
+
+
+
 # 🛠️ Tools Explored
 
 <p align="center">
