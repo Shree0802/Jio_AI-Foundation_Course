@@ -1,6 +1,13 @@
 # StudyHub AI • Your Smart Study Companion 🎓
 
+> 🚀 **Live Demo**: [https://client-axvercel.vercel.app/](https://client-axvercel.vercel.app/)
+
 StudyHub AI is an AI-powered academic productivity application designed to reduce study stress for students who feel overwhelmed by long chapters, messy notes, and complex multi-week project deadlines.
+
+---
+
+## 🌐 Live Application
+- **Vercel Live URL**: [https://client-axvercel.vercel.app/](https://client-axvercel.vercel.app/)
 
 ---
 
@@ -84,7 +91,7 @@ npm --prefix client install
 npm run dev
 ```
 
-* **Frontend UI**: `http://localhost:3000`
+* **Frontend UI**: `http://localhost:5173`
 * **Backend Express Server**: `http://localhost:5000`
 * **Health API Check**: `http://localhost:5000/api/health`
 
@@ -102,21 +109,7 @@ npm run dev
 ---
 
 ## ♿ Accessibility & UX Design
-* **Typography**: Base body size 16px (1rem), 1.6 line height for high readability.
-* **Theme**: Modern dark academic design (`#0B0F19`) with purple/blue glowing accents.
+* **Typography**: Base body size 16px (1rem), 1.6 line height for high readability (Inter + Manrope).
+* **Theme**: Modern dark academic design (`#080D1C`) with purple/blue glowing accents.
 * **Navigation**: Full keyboard focus rings (`:focus-visible`), aria labels, and screen-reader accessibility.
 * **Responsiveness**: Tested on mobile (1-column stack), tablet (2-column grid), and desktop (3-column layout).
-
----
-
-## 🧪 Testing Checklist Completed
-- [x] Backend Express API startup & `/api/health` endpoint.
-- [x] AI Notetaker request/response flow.
-- [x] AI Summarizer request/response flow.
-- [x] AI Work Planner request/response flow.
-- [x] Demo Mode fallback when API key is missing.
-- [x] Empty input validation & character limit alerts.
-- [x] Clipboard copy & file download features.
-- [x] Multilingual testing (English & Hindi input).
-- [x] LocalStorage recent activity persistence.
-- [x] Mobile & tablet responsive layouts.
